@@ -36,37 +36,37 @@ Example texts...
 Generated Text Examples: 
 
 Prompt: On a rainy day
-Generated: On a rainy day, Tom was playing in the garden. He saw a big, red ball. He wanted to play with it. He ran to the ball and tried to grab it. But the ball was too high for him. He tried to jump, but he could not. He felt sad and angry.
+> Generated: On a rainy day, Tom was playing in the garden. He saw a big, red ball. He wanted to play with it. He ran to the ball and tried to grab it. But the ball was too high for him. He tried to jump, but he >?> could not. He felt sad and angry.
 
-He saw a big leaf on the ground. He thought it was a good leaf. He picked it up and held it in his hands. He wanted to make it look like a leaf. He
+> He saw a big leaf on the ground. He thought it was a good leaf. He picked it up and held it in his hands. He wanted to make it look like a leaf. He
 --------------------------------------------------
 
 Prompt: The big red truck
-Generated: The big red truck was in the park. It was red and shiny. The truck driver was driving a big truck. The truck driver was driving the truck.
+> Generated: The big red truck was in the park. It was red and shiny. The truck driver was driving a big truck. The truck driver was driving the truck.
+ 
+> The truck driver drove the truck to the park. He saw a big truck. The truck was red and shiny. The driver stopped the truck. He looked at the truck.
 
-The truck driver drove the truck to the park. He saw a big truck. The truck was red and shiny. The driver stopped the truck. He looked at the truck.
-
-The truck driver smiled. He liked the truck. The truck driver drove the truck to the park. He saw a big truck. The truck was red. The truck
+> The truck driver smiled. He liked the truck. The truck driver drove the truck to the park. He saw a big truck. The truck was red. The truck
 --------------------------------------------------
 
 Prompt: In the kitchen
-Generated: In the kitchen, there was a little girl named Lily. She was three years old and loved to play outside. One day, she was playing with her toys when she heard a loud noise. It was her mommy's voice calling her from the kitchen.
+> Generated: In the kitchen, there was a little girl named Lily. She was three years old and loved to play outside. One day, she was playing with her toys when she heard a loud noise. It was her mommy's voice > calling her from the kitchen.
 
-"Lily, come here please!" her mommy said.
+> "Lily, come here please!" her mommy said.
 
-Lily ran to the kitchen and saw her mommy's voice. "Hi mommy, what's wrong?" she asked.
+> Lily ran to the kitchen and saw her mommy's voice. "Hi mommy, what's wrong?" she asked.
 
-"I'm trying to make
+> "I'm trying to make
 --------------------------------------------------
 
 Prompt: Grace and her friendWhen school ended
-Generated: Grace and her friendWhen school ended, they were very excited. They had been playing together all day and were going to the same school. Grace was so excited to go to school and learn something new.
+> Generated: Grace and her friendWhen school ended, they were very excited. They had been playing together all day and were going to the same school. Grace was so excited to go to school and learn something new.
 
-When they arrived, Grace saw that the school classroom was very big and had lots of books. She was so excited to learn something new.
+> When they arrived, Grace saw that the school classroom was very big and had lots of books. She was so excited to learn something new.
 
-Grace and her friend studied the classroom. They had so much fun learning and learning together. They were so happy and excited to learn something new.
+> Grace and her friend studied the classroom. They had so much fun learning and learning together. They were so happy and excited to learn something new.
 
-Grace
+> Grace
 --------------------------------------------------
 
 ### Age Classification Results
