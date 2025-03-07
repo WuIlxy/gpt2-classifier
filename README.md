@@ -31,14 +31,86 @@ Fine-tuned the model using Low Rank Adapters (LoRA) to classify the minimum read
 ## Results
 
 ### Text Generation Examples
-After training on TinyStories, the model can generate coherent, simple stories based on prompts:
+Example texts...
 
-- Prompt: "On a rainy day"
-  - Generated: "On a rainy day, Tom was playing in the garden. He saw a big, red ball. He wanted to play with it..."
+Generated Text Examples: 
 
-### Age Classification
-Using LoRA fine-tuning on the children's books dataset, we achieved an accuracy of 80.61% on the test set.
+Prompt: On a rainy day
+Generated: On a rainy day, Tom was playing in the garden. He saw a big, red ball. He wanted to play with it. He ran to the ball and tried to grab it. But the ball was too high for him. He tried to jump, but he could not. He felt sad and angry.
 
+He saw a big leaf on the ground. He thought it was a good leaf. He picked it up and held it in his hands. He wanted to make it look like a leaf. He
+--------------------------------------------------
+
+Prompt: The big red truck
+Generated: The big red truck was in the park. It was red and shiny. The truck driver was driving a big truck. The truck driver was driving the truck.
+
+The truck driver drove the truck to the park. He saw a big truck. The truck was red and shiny. The driver stopped the truck. He looked at the truck.
+
+The truck driver smiled. He liked the truck. The truck driver drove the truck to the park. He saw a big truck. The truck was red. The truck
+--------------------------------------------------
+
+Prompt: In the kitchen
+Generated: In the kitchen, there was a little girl named Lily. She was three years old and loved to play outside. One day, she was playing with her toys when she heard a loud noise. It was her mommy's voice calling her from the kitchen.
+
+"Lily, come here please!" her mommy said.
+
+Lily ran to the kitchen and saw her mommy's voice. "Hi mommy, what's wrong?" she asked.
+
+"I'm trying to make
+--------------------------------------------------
+
+Prompt: Grace and her friendWhen school ended
+Generated: Grace and her friendWhen school ended, they were very excited. They had been playing together all day and were going to the same school. Grace was so excited to go to school and learn something new.
+
+When they arrived, Grace saw that the school classroom was very big and had lots of books. She was so excited to learn something new.
+
+Grace and her friend studied the classroom. They had so much fun learning and learning together. They were so happy and excited to learn something new.
+
+Grace
+--------------------------------------------------
+
+### Age Classification Results
+Epoch 1/5: 100%
+ 250/250 [00:42<00:00,  5.90it/s]
+Epoch 1:
+Training Loss: 1.5133
+Validation Loss: 1.1662
+Accuracy: 59.73%
+Best Accuracy: 59.73%
+
+Epoch 2/5: 100%
+ 250/250 [00:42<00:00,  5.92it/s]
+Epoch 2:
+Training Loss: 1.2747
+Validation Loss: 1.0230
+Accuracy: 57.84%
+Best Accuracy: 59.73%
+
+Epoch 3/5: 100%
+ 250/250 [00:42<00:00,  5.92it/s]
+Epoch 3:
+Training Loss: 1.1633
+Validation Loss: 0.8294
+Accuracy: 80.30%
+Best Accuracy: 80.30%
+
+Epoch 4/5: 100%
+ 250/250 [00:42<00:00,  5.91it/s]
+Epoch 4:
+Training Loss: 1.0686
+Validation Loss: 0.8833
+Accuracy: 78.64%
+Best Accuracy: 80.30%
+
+Epoch 5/5: 100%
+ 250/250 [00:42<00:00,  5.91it/s]
+Epoch 5:
+Training Loss: 1.0180
+Validation Loss: 0.6707
+Accuracy: 80.61%
+Best Accuracy: 80.61%
+
+80.61465721040189
 ## How to Run
 
 ### Setup
