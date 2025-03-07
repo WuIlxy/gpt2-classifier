@@ -130,7 +130,7 @@ python lora_finetune.py
 
 ## Dataset Sources
 - [TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories)
-- [Highly Rated Children Books And Stories](https://www.kaggle.com/datasets/thomaskonstantin/highly-rated-childrens-books-and-stories)
+- [Highly Rated Children Books And Stories](https://www.kaggle.com/datasets/thomaskonstantin/highly-rated-children-books-and-stories)
 
 ## References
 1. TinyStories Dataset
